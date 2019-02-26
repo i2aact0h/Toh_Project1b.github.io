@@ -1,0 +1,112 @@
+h1 {
+    color: #B22222;
+    font-family: sans-serif
+}
+
+
+body {
+    background-color: #E466AB;
+}
+
+#titles h2 {
+    color: darkmagenta;
+    background-color: #B2D3A8;
+    font-family: fantasy;
+    font-size: 3em;
+}
+
+h3 {
+    background-color: #8B0000;
+    font-family: serif;
+    color: #459e73;
+}
+
+h4 {
+    background-color: #949470;
+    font-family: serif;
+    color: #eb3d3d;
+}
+
+.surname {
+    color: #39304A;
+}
+
+.name {
+    color: #d17519;
+}
+
+/*******Work Experience styling***/
+
+#school {
+    margin-top: 2em;
+    margin-left: 1em;
+
+}
+
+#school h2 {
+    color: #8aad15;
+    font-family: monospace;
+}
+
+
+#curriculars {
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+#curriculars h2 {
+    color: #001dff;
+    font-family: monospace;
+}
+
+#me {
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+
+#me h2 {
+    color: #00695d;
+    font-family: monospace;
+}
+
+#me2 {
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+#me2 h2 {
+    color: #794109;
+    font-family: monospace;
+}
+
+ul {
+    list-style: none;
+    background-color: #5F9EA0;
+    font-family: sans-serif;
+    color: #DEB887;
+}
+
+
+
+#left-col {
+    background-color: ;
+    width: 15em;
+    height: 100vh;
+}
+
+
+#right-col {
+    width: 50em;
+    background-color: #FFE4C4;
+    margin-left: 250;
+}
+
+#profile-pic {
+    border-radius: 50%;
+    align-content: center;
+}
+
+#ed-col1{
+    color: #DCDCDC
+}
